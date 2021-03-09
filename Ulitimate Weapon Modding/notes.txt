@@ -1,0 +1,42 @@
+AKS74U/aks74ubaks74un
+    pistol grip     slot 0
+    stock           slot 1
+    charge          slot 2
+    magazine        slot 3
+    muzzle          slot 4
+    receiver        slot 5
+    gas block       slot 6
+AK 102/ak74n/105/101
+    gas block       slot 0
+    launcher        slot 1
+    muzzle          slot 2
+    pistol grip     slot 3
+    receiver        slot 4
+    rear sight      slot 5
+    stock           slot 6
+    magazine        slot 7
+    mount 000       slot 8
+    charge          slot 9
+AKMS/akmn matches the ak 102 but also has front sight as slot 10
+vepr 136 has same as akms minus the mount slot
+SA58 
+    pistol grip     slot 0
+    magazine        slot 1
+    handguard       slot 2
+    barrel          slot 3
+    rear sight      slot 4
+    receiver        slot 5
+    stock           slot 6
+tx15/hk416
+    pistol grip     slot 0
+    magazine        slot 1
+    receiver        slot 2
+    stock           slot 3
+    charge          slot 4
+MCX
+    pistol grip     slot 0
+    magazine        slot 1
+    receiver        slot 2
+    stock           slot 3
+    charge          slot 4
+
