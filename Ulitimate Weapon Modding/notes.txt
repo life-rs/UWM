@@ -39,4 +39,75 @@ MCX
     receiver        slot 2
     stock           slot 3
     charge          slot 4
-
+SKS
+    stock           slot 0 
+    sightrear       slot 1
+    magazine        slot 2
+    mount           slot 3
+    muzzle          slot 4
+As Val
+    muzzle          slot 0
+    receiver        slot 1
+    magazine        slot 2
+    pistol grip     slot 3
+    stock           slot 4
+    charge          slot 5
+    mount004        slot 6
+    mount000        slot 7
+SVD
+    Pistol grip     slot 0
+    magazine        slot 1
+    stock           slot 2
+    barrel          slot 3
+    mount000        slot 4
+    mount001        slot 5
+    receiver        slot 6
+    mount002        slot 7
+SR25
+    pistol grip     slot 0
+    magazine        slot 1
+    stock           slot 2
+    receiver        slot 3
+    charge          slot 4
+M1A
+    magazine        slot 0
+    stock           slot 1
+    barrel          slot 2
+    sight rear      slot 3
+    mount           slot 4          
+Rsass
+    pistol grip     slot 0
+    magazine        slot 1
+    stock           slot 2
+    handguard       slot 3
+    barrel          slot 4
+    scope           slot 5
+    sight rear      slot 6
+MK18
+    pistol grip     slot 0
+    magazine        slot 1
+    stock 001       slot 2
+    receiver        slot 3
+Mp153/MP133                 mp133 has mount001 instead of mount
+    barrel          slot 0
+    handguard       slot 1
+    magazine        slot 2
+    stock           slot 3
+    mount           slot 4
+    mount000        slot 5
+590
+    barrel          slot 0
+    handguard       slot 1
+    magazine        slot 2
+    stock           slot 3
+    mount           slot 4
+Saiga12k
+    mount000        slot 0
+    handguard       slot 1
+    muzzle          slot 2
+    pistol grip     slot 3
+    receiver        slot 4
+    sight rear      slot 5
+    stock           slot 6
+    magazine        slot 7
+    
