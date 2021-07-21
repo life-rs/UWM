@@ -11,12 +11,31 @@ exports.mod = () => {
         if(fileData._props.ItemSound === "mod" || fileData._props.ItemSound === "generic"){
             fileData._props.ConflictingItems = [];
         }
-        if(fileData._props.ItemSound === "weap_ar" && fileData._props.Slots[0]._name === "mod_gas_block"){
-            fileData._props.Slots[0].filters[0].Filter = source.ak.gasblock;
-            fileData._props.Slots[6].filters[0].Filter = source.ak.stock;
+        //adding more mods to slots, starting with AK's 
+        //Ak gas blocks allowing all ak handguards
+        if (source.ak.gasblock.includes(fileData._id)) {
+            fileData._props.Slots[0]._props.filters[0].Filter = ["56ea9461d2720b67698b456f"];
         }
-        if(fileData._props.ItemSound === "generic" && fileData._props.Slots[0]._name === "mod_handguard"){
-            fileData._props.Slots[0].filters[0].Filter = source.ak.handguard;
+        //aks74u variants allowing all ak stocks and receivers
+        if (source.ak.aks.includes(fileData._id)) {
+            fileData._props.Slots[1]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
+            fileData._props.Slots[5]._props.filters[0].Filter = ["55818a304bdc2db5418b457d"];
+        }
+        //ak variants allowing all  ak stocks and receivers
+        if (source.ak.gun.includes(fileData._id)) {
+            fileData._props.Slots[6]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
+            fileData._props.Slots[4]._props.filters[0].Filter = ["55818a304bdc2db5418b457d"];
+        }
+        //now AR-15's/M4/HK416
+        //starting with AR receivers
+        if (source.ar.receiver.includes(fileData._id)) {
+            fileData._props.Slots[1]._props.filters[0].Filter = ["555ef6e44bdc2de9068b457e"];
+            fileData._props.Slots[2]._props.filters[0].Filter = ["55818a104bdc2db9688b4569"];
+        }
+        //AR variants allowing all ar stocks and receivers
+        if (source.ar.gun.includes(fileData._id)) {
+            fileData._props.Slots[2]._props.filters[0].Filter = ["55818a304bdc2db5418b457d"];
+            fileData._props.Slots[3]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
         }
     }
     fileIO.write("user/cache/items.json", base);
