@@ -6,7 +6,7 @@ AKS74U/aks74ub/aks74un
     muzzle          slot 4
     receiver        slot 5
     gas block       slot 6
-AK 102/ak74n/105/101
+AK 102/ak74n/105/101/104/103/74m/aks74n
     gas block       slot 0
     launcher        slot 1
     muzzle          slot 2
@@ -17,8 +17,41 @@ AK 102/ak74n/105/101
     magazine        slot 7
     mount 000       slot 8
     charge          slot 9
-AKMS/akmn matches the ak 102 but also has front sight as slot 10
-vepr 136 has same as akms minus the mount slot
+akmn 
+    gas block       slot 0
+    launcher        slot 1
+    muzzle          slot 2
+    pistol grip     slot 3
+    receiver        slot 4
+    rear sight      slot 5
+    stock           slot 6
+    magazine        slot 7
+    charge          slot 8
+    mount_000       slot 9
+    front sight     slot 10
+akmsn
+    gas block       slot 0
+    launcher        slot 1
+    muzzle          slot 2
+    pistol grip     slot 3
+    receiver        slot 4
+    rear sight      slot 5
+    stock           slot 6
+    magazine        slot 7
+    charge          slot 8
+    front sight     slot 9
+    mount_001       slot 10
+vepr 136/aks74/ak74/akm/vepr209 
+    gas block       slot 0
+    launcher        slot 1
+    muzzle          slot 2
+    pistol grip     slot 3
+    receiver        slot 4
+    rear sight      slot 5
+    stock           slot 6
+    magazine        slot 7
+    charge          slot 8
+    front sight     slot 9
 SA58 
     pistol grip     slot 0
     magazine        slot 1
@@ -27,13 +60,7 @@ SA58
     rear sight      slot 4
     receiver        slot 5
     stock           slot 6
-tx15/hk416/m4
-    pistol grip     slot 0
-    magazine        slot 1
-    receiver        slot 2
-    stock           slot 3
-    charge          slot 4
-MCX
+tx15/hk416/m4/mcx/adar
     pistol grip     slot 0
     magazine        slot 1
     receiver        slot 2
@@ -54,6 +81,14 @@ As Val
     charge          slot 5
     mount004        slot 6
     mount000        slot 7
+vss
+    mount000        slot 0
+    magazine        slot 1
+    muzzle          slot 2
+    receiver        slot 3
+    stock           slot 4
+    charge          slot 5
+    mount004        slot 6
 SVD
     Pistol grip     slot 0
     magazine        slot 1
@@ -75,7 +110,7 @@ M1A
     barrel          slot 2
     sight rear      slot 3
     mount           slot 4          
-Rsass
+Rsass       
     pistol grip     slot 0
     magazine        slot 1
     stock           slot 2
@@ -83,6 +118,13 @@ Rsass
     barrel          slot 4
     scope           slot 5
     sight rear      slot 6
+MDR-762/556
+    pistol grip     slot 0
+    magazine        slot 1
+    handguard       slot 2
+    barrel          slot 3
+    scope           slot 4
+    sight rear      slot 5
 MK18
     pistol grip     slot 0
     magazine        slot 1
@@ -110,4 +152,89 @@ Saiga12k
     sight rear      slot 5
     stock           slot 6
     magazine        slot 7
+Ash12 
+    muzzle	        slot 0
+    rear sight      slot 1
+    magazine        slot 2
+    front sight     slot 3
+    handguard       slot 4
+    scope           slot 5
+    tactical_000     slot 6
+    tactical_001     slot 7
+    tactical_002     slot 8
+vepr_hunter
+    gas block       slot 0
+    receiver        slot 1
+    rear sight      slot 2
+    stock           slot 3
+    magazine        slot 4
+    mount           slot 5
+    muzzle          slot 6
+rfb
+    magazine        slot 0
+    barrel          slot 1
+    handguard       slot 2
+    mount           slot 3
+toz-106 (shotgun)
+    magazine        slot 0
+    stock           slot 1
+    mount_000       slot 2
+mossberg-590/remington-870
+    barrel          slot 0
+    handguard       slot 1
+    magazine        slot 2
+    stock           slot 3
+    mount           slot 4
+ toz-ks23m
+    barrel          slot 0
+    handguard       slot 1
+    magazine        slot 2
+    stock           slot 3
+mosin-infantry
+    magazine        slot 0
+    stock           slot 1
+    barrel          slot 2
+mosin-rifle/vpo-215/orsis-t5000/m700
+    magazine        slot 0
+    stock           slot 1
+    barrel          slot 2
+    mount           slot 3
+sv98
+    magazine        slot 0
+    scope           slot 1
+    rear sight      slot 2
+    tactical         slot 3
+    muzzle          slot 4
+    bipod           slot 5
+dvl-10
+    magazine        slot 0
+    scope           slot 1
+    barrel          slot 2
+    pistol grip     slot 3
+    stock           slot 4
+pm
+    magazine        slot 0
+apb
+    magazine        slot 0
+    stock           slot 1
+    pistol grip     slot 2
+    front sight     slot 3
+    rear sight      slot 4
+    muzzle          slot 5
+glock18c
+    barrel          slot 0
+    pistol grip     slot 1
+    receiver        slot 2
+    magazine        slot 3
+    tactical        slot 4
+    mount           slot 5
+    stock           slot 6
+pmt
+    magazine        slot 0
+    muzzle          slot 1
+fn57
+    barrel          slot 0
+    receiver        slot 1
+    magazine        slot 2
+    tactical        slot 3
     
