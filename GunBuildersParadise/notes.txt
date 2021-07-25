@@ -285,4 +285,66 @@ aps
     pistol grip     slot 2
     front sight     slot 3
     rear sight      slot 4
+saiga-9
+    pistol grip     slot 0
+    stock           slot 1
+    charge          slot 2
+    magazine        slot 3
+    muzzle          slot 4
+    receiver        slot 5
+    rear sight      slot 6
+    gas block       slot 7
+pp91/pp9
+    pistol grip     slot 0
+    magazine        slot 1
+    mount           slot 2
+ppsh
+    stock           slot 0
+    magazine        slot 1
+    receiver        slot 2
+    barrel          slot 3
+mp9n
+    magazine        slot 0
+    muzzle          slot 1
+    stock           slot 2
+    foregrip        slot 3
+    receiver        slot 4
+    charge          slot 5
+mp5/mp5k
+    magazine        slot 0
+    receiver        slot 1
+    charge          slot 2
+zmz-pp91
+    pistol grip     slot 0
+    muzzle          slot 1
+    magazine        slot 2
+izmash-pp91
+    pistol grip     slot 0
+    stock           slot 1
+    charge          slot 2
+    magazine        slot 3
+    muzzle          slot 4
+    receiver        slot 5
+    rear sight      slot 6
+    scope           slot 7
+    gas block       slot 8
+vector-9
+    magazine        slot 0
+    front sight     slot 1
+    rear sight      slot 2
+    scope           slot 3
+    tactical_000    slot 4
+    stock           slot 5
+    barrel          slot 6
+    mount           slot 7
+    mount001        slot 8
+    mount002        slot 9
+mp9
+    magazine        slot 0
+    muzzle          slot 1
+    stock           slot 2
+    receiver        slot 3
+    charge          slot 4
+    mount000        slot 5
+
 
