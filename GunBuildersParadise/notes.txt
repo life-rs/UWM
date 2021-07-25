@@ -221,7 +221,7 @@ apb
     front sight     slot 3
     rear sight      slot 4
     muzzle          slot 5
-glock18c
+glock18c/glock17
     barrel          slot 0
     pistol grip     slot 1
     receiver        slot 2
@@ -232,9 +232,57 @@ glock18c
 pmt
     magazine        slot 0
     muzzle          slot 1
-fn57
+fn57/fn57fde
     barrel          slot 0
     receiver        slot 1
     magazine        slot 2
     tactical        slot 3
-    
+tt/ttgold              
+    barrel          slot 0
+    pistol grip     slot 1
+    magazine        slot 2
+    muzzle          slot 3
+    tacticle        slot 4
+sr1mp
+    mount           slot 0
+    magazine        slot 1
+mp443
+    mount           slot 0
+    magazine        slot 1
+    pistol grip     slot 2
+m9a3/sig p226
+    barrel          slot 0
+    pistol grip     slot 1
+    receiver        slot 2
+    magazine        slot 3
+    tactical        slot 4
+pb
+    magazine        slot 0
+    muzzle          slot 1
+    pistol grip     slot 2
+m1911a1
+    barrel          slot 0
+    pistol grip     slot 1
+    receiver        slot 2
+    magazine        slot 3
+    trigger         slot 4
+    hammer          slot 5
+    catch           slot 6
+    mount000        slot 7
+    mount001        slot 8
+m45a1
+    barrel          slot 0
+    pistol grip     slot 1
+    receiver        slot 2
+    magazine        slot 3
+    trigger         slot 4
+    hammer          slot 5
+    catch           slot 6
+    mount000        slot 7
+aps
+    magazine        slot 0
+    stock           slot 1
+    pistol grip     slot 2
+    front sight     slot 3
+    rear sight      slot 4
+
