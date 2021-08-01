@@ -1,0 +1,3034 @@
+{
+	"HK A1 4.6x30 Flash hider for MP7": {
+		"mod_muzzle": "0"
+	},
+	"Daniel Defense Wave Muzzle Brake 7.62x51": {
+		"mod_muzzle": "0"
+	},
+	"FN P90 5.7x28 flash hider": {
+		"mod_muzzle": "0"
+	},
+	"KAC QD Compensator 5.56x45": {
+		"mod_muzzle": "0"
+	},
+	"Izhmash 7.62x54 SVDS muzzlebrake & compensator": {
+		"mod_sight_front": "0",
+		"mod_muzzle": "1"
+	},
+	"Daniel Defense Wave Muzzle Brake 5.56x45": {
+		"mod_muzzle": "0"
+	},
+	"Socom 16 7.62x51 muzzle brake & compensator for M1A": {
+		"mod_sight_front": "0",
+		"mod_muzzle": "1"
+	},
+	"Surefire WarComp 5.56x45 Flash hider for AR-15": {
+		"mod_muzzle": "0"
+	},
+	"Phantom 7.62x51 muzzle brake & compensator for M14": {
+		"mod_sight_front": "0"
+	},
+	"Good Iron 7.62x51 muzzle brake & compensator for M14": {
+		"mod_sight_front": "0"
+	},
+	"Surefire FH556RC 5.56x45 Flash hider for AR-15": {
+		"mod_muzzle": "0"
+	},
+	"Ferfrans Muzzle Brake 5.56x45": {
+		"mod_muzzle": "0"
+	},
+	"Thunder Beast 223CB Muzzle brake 5.56x45": {
+		"mod_muzzle": "0"
+	},
+	"Thunder Beast 30CB Muzzle Brake 7.62x51": {
+		"mod_muzzle": "0"
+	},
+	"AAC Blackout 51T 5.56x45 flash-hider": {
+		"mod_muzzle": "0"
+	},
+	"KAC QDC Flash suppressor kit 7.62x51 flash hider": {
+		"mod_muzzle": "0"
+	},
+	"Surefire SF3P 5.56x45 Flash hider for AR-15": {
+		"mod_muzzle": "0"
+	},
+	"AAC Blackout 51T flash hider (7.62x51)": {
+		"mod_muzzle": "0"
+	},
+	"Thread adapter 7.62x54 for SV-98": {
+		"mod_muzzle": "0"
+	},
+	"National Match 7.62x51 muzzle brake & compensator for M1A": {
+		"mod_sight_front": "0"
+	},
+	"JP Enterprises tactical compensator 7.62x51 muzzle brake & compensator for M14": {
+		"mod_sight_front": "0"
+	},
+	"Regular SV-98 7.62x54 silencer": {
+		"mod_tactical": "0"
+	},
+	"AS VAL 9x39 integral barrel-suppressor": {
+		"mod_sight_rear": "0",
+		"mod_mount_000": "1"
+	},
+	"VSS 9x39 integral barrel-suppressor": {
+		"mod_sight_rear": "0",
+		"mod_mount_000": "1"
+	},
+	"MP5SD 9x19 silencer": {
+		"mod_mount": "0"
+	},
+	"Fischer Development FD917 suppressor": {
+		"mod_tactical": "0"
+	},
+	"Alpha Dog Alpha 9 9x19 sound suppressor": {
+		"mod_scope": "0"
+	},
+	"SIG Taper-LOK Muzzle Adapter": {
+		"mod_muzzle_000": "0",
+		"mod_muzzle_001": "1"
+	},
+	"B&T adapter for MP9 regular suppressor.": {
+		"mod_muzzle": "0",
+		"mod_tactical": "1"
+	},
+	"Direct Thread Mount adapter for Silencerco Hybrid 46.": {
+		"mod_muzzle": "0"
+	},
+	"PP-91-01 Kedr-B muzzle thread piece": {
+		"mod_muzzle": "0"
+	},
+	"Taktika Tula AK and AKM adapter": {
+		"mod_muzzle": "0"
+	},
+	"ME Cylinder muzzle adapter 12 ga": {
+		"mod_muzzle": "0"
+	},
+	"CNC Warrior AK 5.56x45 mm muzzle device adapter": {
+		"mod_muzzle": "0"
+	},
+	"3 Lug threaded protector": {
+		"mod_muzzle": "0"
+	},
+	"Rotor 43 thread adapter for SVD-S": {
+		"mod_muzzle": "0"
+	},
+	"Tiger Rock Mosin rifle tread adapter": {
+		"mod_muzzle": "0"
+	},
+	"3 Lug thread protector": {
+		"mod_muzzle": "0"
+	},
+	"Custom Mosin rifle thread adapter": {
+		"mod_muzzle": "0"
+	},
+	"Weapon Tuning Mosin rifle tread adapter": {
+		"mod_muzzle": "0"
+	},
+	"SilencerCo choke adapter for 12ga shotguns": {
+		"mod_muzzle": "0"
+	},
+	"SilencerCo Salvo 12 thread adapter": {
+		"mod_muzzle": "0"
+	},
+	"Direct Thread Mount adapter for Gemtech ONE.": {
+		"mod_muzzle": "0"
+	},
+	"Weapon Tuning SKS tread adapter": {
+		"mod_muzzle": "0"
+	},
+	"RFB Thread spacer": {
+		"mod_muzzle": "0"
+	},
+	"Direct Thread Mount adapter for Silencerco Omega 45k": {
+		"mod_muzzle": "0"
+	},
+	"Piston Mount adapter for Silencerco Omega 45k": {
+		"mod_muzzle": "0"
+	},
+	"Direct Thread adapter for the Lantac Blast mitigation device.": {
+		"mod_muzzle_000": "0",
+		"mod_muzzle_001": "1"
+	},
+	"FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope": {
+		"mod_tactical": "0"
+	},
+	"Vulcan MG night scope 3.5x": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"Trijicon REAP-IR thermal riflescope": {
+		"mod_tactical": "0"
+	},
+	"NSPU-M night Scope": {
+		"mod_tactical": "0"
+	},
+	"AKM Standard Rearsight (6P1 Sb.2-1)": {
+		"mod_sight_rear": "0"
+	},
+	"AK-105 Standard Rearsight (6P44 Sb.1-30)": {
+		"mod_sight_rear": "0"
+	},
+	"Izhmash Rearsight base for RPK-16": {
+		"mod_sight_rear": "0"
+	},
+	"Tactica Tula TT01 Rearsight Weaver Adapter": {
+		"mod_scope": "0"
+	},
+	" Rearsight AR-15 Carry Handle": {
+		"mod_scope": "0"
+	},
+	"AK-74M Standard Rearsight (6P20 Sb.2)": {
+		"mod_sight_rear": "0"
+	},
+	"AKM / VPO-209 Standard Rearsight": {
+		"mod_sight_rear": "0"
+	},
+	"SOK-12 CSS SIGHT RAIL MOUNT rear sight": {
+		"mod_scope": "0"
+	},
+	"Sight Mount M9 rear sight bearing": {
+		"mod_scope": "0"
+	},
+	"Sight Mount Sig 220-239 rear sight bearing": {
+		"mod_scope": "0"
+	},
+	"AK-74 Standard Rearsight (6P1 Sb.2)": {
+		"mod_sight_rear": "0"
+	},
+	" Rearsight ASh-12 Carry Handle": {
+		"mod_scope": "0"
+	},
+	"ELCAN SpecterDR 1x/4x Scope FDE": {
+		"mod_mount": "0"
+	},
+	"Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope": {
+		"mod_scope": "0"
+	},
+	"Sig BRAVO4 4X30 Scope": {
+		"mod_scope": "0"
+	},
+	"Trijicon ACOG 3.5x35 scope": {
+		"mod_mount": "0"
+	},
+	"ELCAN SpecterDR 1x/4x Scope": {
+		"mod_mount": "0"
+	},
+	"Trijicon ACOG TA01NSN 4x32 scope": {
+		"mod_mount": "0"
+	},
+	"Trijicon ACOG TA01NSN 4x32 scope TAN": {
+		"mod_mount": "0"
+	},
+	"Cobra EKP-8-18 reflex sight": {
+		"mod_tactical": "0"
+	},
+	"Cobra EKP-8-02 reflex sight": {
+		"mod_tactical": "0"
+	},
+	"Zenit-Belomo PSO 1M2-1 4x24 scope": {
+		"mod_tactical": "0"
+	},
+	"Zenit-Belomo PSO 1M2 4x24 scope": {
+		"mod_tactical": "0"
+	},
+	"Zenit-Belomo PSO 1 4x24 scope": {
+		"mod_tactical": "0"
+	},
+	"KMZ 1P59 3-10x riflescope": {
+		"mod_tactical": "0"
+	},
+	"KMZ 1P69 3-10x riflescope": {
+		"mod_tactical": "0"
+	},
+	"NPZ USP-1 4x scope": {
+		"mod_tactical": "0"
+	},
+	"JP Enterprises Gas System-6": {
+		"mod_sight_front": "0"
+	},
+	"AKS-74U Gas tube": {
+		"mod_handguard": "0"
+	},
+	"Kiba Arms VDM CS gas tube": {
+		"mod_handguard": "0"
+	},
+	"UltiMAK M1-B gas tube for АК": {
+		"mod_scope": "0",
+		"mod_tactical_000": "1"
+	},
+	"AK-74 Gas tube": {
+		"mod_handguard": "0"
+	},
+	"AKM (6P1 Sb.1-2) gas tube": {
+		"mod_handguard": "0"
+	},
+	"Windham Weaponry Rail Gas Block": {
+		"mod_sight_front": "0"
+	},
+	"Handguard with a gas block combo by TROY Industries for AK": {
+		"mod_scope": "0",
+		"mod_tactical": "1",
+		"mod_mount_000": "2",
+		"mod_mount_001": "3",
+		"mod_mount_002": "4"
+	},
+	"PP-19-01 gas tube": {
+		"mod_handguard": "0"
+	},
+	"Molot AKM type gas tube\n": {
+		"mod_handguard": "0"
+	},
+	"VS-24 white handguard with a VS-33c gas block combo for AK": {
+		"mod_scope": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2",
+		"mod_mount_002": "3",
+		"mod_foregrip": "4"
+	},
+	"VS-24 Handguard with a VS-33c gas block combo for AK": {
+		"mod_scope": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2",
+		"mod_mount_002": "3",
+		"mod_foregrip": "4"
+	},
+	"CAA AKTS AK-74 Buffer Tube for AK and compatible": {
+		"mod_stock": "0"
+	},
+	"IzhMash metal stock for AKS-74 (6P21 Sb.5)": {
+		"mod_stock": "0"
+	},
+	"FN P90 stock": {
+		"mod_stock_000": "0"
+	},
+	"Colt buffer tube": {
+		"mod_stock_000": "0"
+	},
+	"Wooden stock for Molot OP-SKS": {
+		"mod_mount_001": "0"
+	},
+	"ADAR buffer tube": {
+		"mod_stock_000": "0"
+	},
+	"FN PS90 stock": {
+		"mod_stock_000": "0"
+	},
+	"Troy S.A.S.S. Chassis stock for M14": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_mount": "2",
+		"mod_tactical_000": "3",
+		"mod_tactical_001": "4",
+		"mod_tactical_002": "5",
+		"mod_tactical_003": "6",
+		"mod_pistolgrip": "7",
+		"mod_stock": "8",
+		"mod_sight_front": "9",
+		"mod_sight_rear": "10"
+	},
+	"Izhmash shoulder piece for AKMS (6P4 Sb.1-19)": {
+		"mod_stock": "0"
+	},
+	"SIG retractable stock pipe adapter": {
+		"mod_stock": "0"
+	},
+	"Molot wooden VPO-209 stock": {
+		"mod_stock": "0"
+	},
+	"Wooden stock 56-A-231 Sb.5": {
+		"mod_mount_001": "0"
+	},
+	"AKM/AK-74 PT Lock": {
+		"mod_stock": "0"
+	},
+	"Molot wooden VPO-136 stock": {
+		"mod_stock": "0"
+	},
+	"M14 M14ALCS(MOD. 0) stock": {
+		"mod_pistol_grip": "0"
+	},
+	"AK74/АК100 PT Lock": {
+		"mod_stock": "0"
+	},
+	"Tapco buffer tube": {
+		"mod_stock": "0"
+	},
+	"Custom cut mosin stock for TOZ-106": {
+		"mod_stock": "0"
+	},
+	"Polymer stock for AK-74M (6P34 Sb.15)": {
+		"mod_stock": "0"
+	},
+	"Izhmash polymer АК-74 stock (6P20 Sb.7)": {
+		"mod_stock": "0"
+	},
+	"MOE Carbine stock SG": {
+		"mod_stock": "0"
+	},
+	"Regular Mosin rifle stock": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1"
+	},
+	"COLT \"A2\" buffer tube": {
+		"mod_stock": "0"
+	},
+	"Metal Izhmash stock for PP-19-01": {
+		"mod_stock": "0"
+	},
+	"MOE Carbine stock FDE": {
+		"mod_stock": "0"
+	},
+	"ME adapter for АК": {
+		"mod_stock": "0"
+	},
+	"Izhmash wooden АКМ stock (6P1 Sb.5)": {
+		"mod_stock": "0"
+	},
+	"IzhMash metal stock for AKS-74U (6P26 Sb.5)": {
+		"mod_stock": "0"
+	},
+	"Buffer tube side folder adapter for M700": {
+		"mod_stock": "0"
+	},
+	"Plastic pistol grip for МP-133/153": {
+		"mod_scope": "0"
+	},
+	"M1A Archangel stock": {
+		"mod_mount": "0",
+		"mod_tactical": "1"
+	},
+	"AKS-74/АКS-74U PT Lock": {
+		"mod_stock": "0"
+	},
+	"Fab Defence UAS Stock for SKS": {
+		"mod_scope": "0",
+		"mod_pistol_grip": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4"
+	},
+	"MOE Carbine stock FG": {
+		"mod_stock": "0"
+	},
+	"Izhmash wooden АК-74 stock (6P20 Sb.5)": {
+		"mod_stock": "0"
+	},
+	"LEO stock adapter for M870": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1"
+	},
+	"Izhmash shoulder piece for AKMSN (6P4 Sb.1-19)": {
+		"mod_stock": "0"
+	},
+	"AT AICS polymer stock for M700": {
+		"mod_mount_000": "0"
+	},
+	"Mosin rifle sniper carbine stock": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1"
+	},
+	"Infantry Mosin rifle stock": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1"
+	},
+	"Fab Defence buffer tube for AGR-870": {
+		"mod_stock_000": "0"
+	},
+	"LEO stock adapter gen.1 for M590": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1"
+	},
+	"KRISS Vector non folding stock adapter": {
+		"mod_stock_000": "0"
+	},
+	"Izhmash RPK-16 buffer tube": {
+		"mod_stock": "0"
+	},
+	"Buffer Tube adapter for SA-58": {
+		"mod_stock_000": "0"
+	},
+	"SI Advanced receiver extension buffer tube (anodized red)": {
+		"mod_stock_000": "0"
+	},
+	"Mosin carbine stock": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1"
+	},
+	"Orsis Aluminium body for T-5000": {
+		"mod_handguard": "0",
+		"mod_pistol_grip": "1",
+		"mod_stock_axis": "2"
+	},
+	"Tapco INTRAFUSE Stock for SKS": {
+		"mod_stock": "0",
+		"mod_foregrip": "1",
+		"mod_scope": "2",
+		"mod_pistol_grip": "3"
+	},
+	"Izhmash polymer Plum AK-74 stock (6P20 Sb.7)": {
+		"mod_stock": "0"
+	},
+	"MOE Carbine stock OD": {
+		"mod_stock": "0"
+	},
+	"SI Advanced receiver extension buffer tube": {
+		"mod_stock_000": "0"
+	},
+	"M1A Socom 16 stock": {
+		"mod_mount": "0"
+	},
+	"Double Star Ace Socom gen.4 stock for AR-15": {
+		"mod_stock": "0"
+	},
+	"Magpul PRO 700 chassis": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1",
+		"mod_mount_000": "2",
+		"mod_mount_001": "3",
+		"mod_mount_002": "4",
+		"mod_mount_003": "5",
+		"mod_foregrip": "6"
+	},
+	"Sawn off Mosin rifle sniper stock": {
+		"mod_pistol_grip": "0"
+	},
+	"Hogue \"Overmolded ghillie\" stock for Remington Model 700": {
+		"mod_tactical": "0"
+	},
+	"MOE Carbine stock": {
+		"mod_stock": "0"
+	},
+	"TOZ stock for TOZ-106": {
+		"mod_pistol_grip": "0"
+	},
+	"HK \"Enhanced Tube\" buffer tube": {
+		"mod_stock_000": "0"
+	},
+	"Sawn off regular Mosin rifle stock": {
+		"mod_pistol_grip": "0"
+	},
+	"Mesa Tactical Crosshair Hydraulic buffer tube": {
+		"mod_stock": "0"
+	},
+	"M700 MOD X Gen.3 stock": {
+		"mod_stock": "0",
+		"mod_pistol_grip": "1",
+		"mod_handguard": "2"
+	},
+	"Izhmash SOK-12 АК type stock": {
+		"mod_stock": "0"
+	},
+	"B-12 Mount": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"B-3 mount": {
+		"mod_tactical": "0"
+	},
+	"UNV DLOC-IRD Mount for sights": {
+		"mod_scope": "0"
+	},
+	"NcStar MPR45 Backup mount": {
+		"mod_scope": "0"
+	},
+	"SIG MPX Gen1 Handguard 4 inch rail adapter": {
+		"mod_foregrip": "0"
+	},
+	"MFI HK Universal Low Profile Scope Mount": {
+		"mod_scope": "0"
+	},
+	"Wilcox Interface for PVS-7": {
+		"mod_nvg": "0"
+	},
+	"TOZ 6P29M Mount": {
+		"mod_tactical_000": "0",
+		"mod_tactical_001": "1",
+		"mod_foregrip": "2"
+	},
+	"CAA DRG L-1 mount for SVD": {
+		"mod_tactical_000": "0"
+	},
+	"Low profile mount for Trijicon RMR": {
+		"mod_scope": "0"
+	},
+	"Tactical rail for M590": {
+		"mod_scope": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_tactical_003": "4",
+		"mod_mount": "5",
+		"mod_sight_front": "6",
+		"mod_sight_rear": "7"
+	},
+	"Short length rail for Hexagon": {
+		"mod_tactical": "0"
+	},
+	"MTU-028SG rail for M870": {
+		"mod_scope": "0"
+	},
+	"ETMI-019 Mount": {
+		"mod_scope": "0"
+	},
+	"B-18 Mount": {
+		"mod_scope": "0"
+	},
+	"TA51 Mount for sights": {
+		"mod_scope": "0"
+	},
+	"B-8 mount": {
+		"mod_tactical": "0"
+	},
+	"SIG MPX Gen1 Handguard 2 inch rail adapter": {
+		"mod_tactical": "0"
+	},
+	"34mm one piece magmount made by I-E-A Mil Optics": {
+		"mod_scope": "0"
+	},
+	"Rotor 43 RIS mount for PP Kedr": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"SR1MP single rail mount": {
+		"mod_tactical_000": "0",
+		"mod_mount": "1"
+	},
+	"Dovetail OP-SKS mount.": {
+		"mod_scope": "0"
+	},
+	"Aim Sports MNG rail for Mosin rifle": {
+		"mod_scope": "0"
+	},
+	"CASV 14 mount for M14": {
+		"mod_scope_000": "0",
+		"mod_scope_001": "1",
+		"mod_tactical": "2",
+		"mod_mount_000": "3",
+		"mod_mount_001": "4"
+	},
+	"Aimpoint LRP mount for COMP M4 sights.": {
+		"mod_scope": "0"
+	},
+	"M14 DCSB": {
+		"mod_scope": "0"
+	},
+	"25mm rings made by UTG": {
+		"mod_scope": "0"
+	},
+	"Delta-tek Sprut mount for pump-action shotguns": {
+		"mod_tactical_001": "0",
+		"mod_tactical_002": "1",
+		"mod_tactical_003": "2"
+	},
+	"Tactica Tula 10000 mount": {
+		"mod_scope": "0"
+	},
+	"Short length rail for Hexagon(Anodized Red)": {
+		"mod_tactical": "0"
+	},
+	"Izhmash RPK-16 rail": {
+		"mod_tactical_000": "0"
+	},
+	"KMZ 1P69 Weaver mount": {
+		"mod_scope": "0"
+	},
+	"Norotos Titanium Advanced Tactical Mount ": {
+		"mod_nvg": "0"
+	},
+	"Dual Dovetail Mount for PVS-14 monocular": {
+		"mod_nvg": "0"
+	},
+	"B-13 rail platform": {
+		"mod_scope": "0"
+	},
+	"KMZ 1P59 Dovetail mount": {
+		"mod_scope": "0"
+	},
+	"Medium length rail for Hexagon": {
+		"mod_foregrip": "0"
+	},
+	"25 mm mount ring": {
+		"mod_flashlight": "0"
+	},
+	"B&T MP9 bottom rail": {
+		"mod_foregrip": "0"
+	},
+	"B-3 mount combo": {
+		"mod_tactical": "0",
+		"mod_scope": "1"
+	},
+	"Aim Sports \"Tri-Rail\" rail for Mosin rifle": {
+		"mod_scope": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2"
+	},
+	"30mm Scope mount": {
+		"mod_scope": "0"
+	},
+	"B-13V rail platform above reciever \"Classic\"": {
+		"mod_scope": "0"
+	},
+	"Kiba Arms International SPRM mount for pump-action shotguns\n": {
+		"mod_scope": "0"
+	},
+	"SR1MP quad rail mount": {
+		"mod_tactical_000": "0",
+		"mod_mount": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_scope": "4"
+	},
+	"Axion Cobra mount": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"FN EFFEN 90 rail": {
+		"mod_tactical": "0"
+	},
+	"Aimpoint mount for the sights of Micro series.": {
+		"mod_scope": "0"
+	},
+	"B&T MP5 SD Tri Rail Ring Mount": {
+		"mod_tactical_000": "0",
+		"mod_tactical_001": "1",
+		"mod_tactical_002": "2"
+	},
+	"PU 3.5x ring mount": {
+		"mod_scope": "0"
+	},
+	"Aimtech glock base": {
+		"mod_scope": "0"
+	},
+	"UTG SKS SOCOM Rail mount": {
+		"mod_scope": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_tactical_003": "4"
+	},
+	"Medium length rail for Hexagon(Anodized Red)": {
+		"mod_foregrip": "0"
+	},
+	"High profile mount for Trijicon RMR": {
+		"mod_scope": "0"
+	},
+	"Kochetov Mount for Mosin rifle": {
+		"mod_mount": "0"
+	},
+	"Trijicon RMR mount for ACOG scopes": {
+		"mod_scope": "0"
+	},
+	"Trijicon RMR mount for a Sig-Sauer pistols": {
+		"mod_scope": "0"
+	},
+	"Stock adapter Tactica Tula 12003 for MP-133/153": {
+		"mod_stock": "0"
+	},
+	"Bridge Sight Mount for P226": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"Aimpoint Micro Spacer High": {
+		"mod_scope": "0"
+	},
+	"FN RMR Mount for 5-7 Mk.2": {
+		"mod_scope": "0"
+	},
+	"Aimtech Tiger Shark ": {
+		"mod_scope": "0"
+	},
+	"30mm ring-mount AR- P.E.P.R. made by Burris": {
+		"mod_scope_000": "0",
+		"mod_scope_001": "1",
+		"mod_scope_002": "2"
+	},
+	"B&T 3x rail mount for MP5": {
+		"mod_scope": "0"
+	},
+	"Vltor CASV 2 inch guide": {
+		"mod_tactical": "0"
+	},
+	"Dovetail mount for TOZ-106": {
+		"mod_mount_000": "0"
+	},
+	"CAA XD RGL mount for SVD": {
+		"mod_scope": "0"
+	},
+	"Cross Slot Mount base for Deltapoint scopes": {
+		"mod_scope": "0"
+	},
+	"30mm ring-mount made by JP": {
+		"mod_scope_000": "0",
+		"mod_scope_001": "1"
+	},
+	"Orsis scope mount for T-5000M": {
+		"mod_scope": "0"
+	},
+	"30mm ring-mount Remington integral for model 700 rifles": {
+		"mod_scope": "0"
+	},
+	"Magpul inline mount for PRO 700 chassis": {
+		"mod_tactical_000": "0",
+		"mod_sight_front": "1"
+	},
+	"Burris FastFire Weaver Base": {
+		"mod_scope": "0"
+	},
+	"PNV-10T dovetail adapter": {
+		"mod_nvg": "0"
+	},
+	"Sig Sauer mount for the sights of Romeo series.": {
+		"mod_scope": "0"
+	},
+	"Kel-Tec RFB handguard rail": {
+		"mod_foregrip": "0"
+	},
+	"Pilad 043-02 Mount": {
+		"mod_scope": "0"
+	},
+	"Ops Core Single Clamp Rail Adapter mount": {
+		"mod_flashlight": "0"
+	},
+	"Ops Core Picatinny Rail Adapter mount": {
+		"mod_mount": "0"
+	},
+	"Standard Spacer for Aimpont sight": {
+		"mod_scope": "0"
+	},
+	"Mesa Tactical magazine clamp for M870": {
+		"mod_tactical_000": "0",
+		"mod_tactical_001": "1"
+	},
+	"Arbalet Patriot K+W mount": {
+		"mod_scope": "0"
+	},
+	"FN side rail for regular P90 upper receiver": {
+		"mod_tactical": "0"
+	},
+	"Remington RAHG 2 inch guide": {
+		"mod_tactical": "0"
+	},
+	"UM Tactical UM3 Sight Mount": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"Alexander Arms 3 inch guide": {
+		"mod_tactical": "0"
+	},
+	"FN top rail for regular P90 upper receiver": {
+		"mod_scope": "0",
+		"mod_sight_front": "1",
+		"mod_sight_rear": "2"
+	},
+	"KRISS Vector Bottom rail": {
+		"mod_foregrip": "0"
+	},
+	"B&T MP9 side rail": {
+		"mod_tactical": "0"
+	},
+	"M1A Socom 16 upper part": {
+		"mod_scope": "0"
+	},
+	"Kel-Tec RFB scope mount rail": {
+		"mod_scope": "0",
+		"mod_sight_rear": "1",
+		"mod_sight_front": "2"
+	},
+	"SR1MP silencer mount": {
+		"mod_muzzle": "0"
+	},
+	"M14 Mini Scout mount": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"Armasight universal base": {
+		"mod_scope": "0"
+	},
+	"Orsis long length rail": {
+		"mod_tactical": "0"
+	},
+	"Compact mount for sights": {
+		"mod_scope": "0"
+	},
+	"SVDS Upper Band": {
+		"mod_handguard": "0",
+		"mod_sight_rear": "1"
+	},
+	"XS Short rail with Ghost ring for M870": {
+		"mod_scope": "0"
+	},
+	"Orsis medium length rail": {
+		"mod_tactical": "0"
+	},
+	"SVD Low sidemount": {
+		"mod_scope": "0"
+	},
+	"KAC URX 3 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"HK UMP Bottom rail": {
+		"mod_foregrip": "0"
+	},
+	"KRISS Vector Side rail": {
+		"mod_tactical": "0"
+	},
+	"IzhMash modern rail for SVD": {
+		"mod_scope": "0"
+	},
+	"Remington RAHG 4 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"Troy QARS 3.2 inch guide": {
+		"mod_tactical": "0"
+	},
+	"Vltor CASV 4 inch guide": {
+		"mod_tactical": "0"
+	},
+	"Vltor CASV KeyMod 2 inch guide": {
+		"mod_tactical": "0"
+	},
+	"34mm one piece magmount made by Nightforce with a Multimount rail": {
+		"mod_scope_000": "0",
+		"mod_scope_001": "1",
+		"mod_scope_002": "2",
+		"mod_scope_003": "3"
+	},
+	"A*B Arms MOD X mount for M700": {
+		"mod_scope": "0",
+		"mod_sight_rear": "1"
+	},
+	"30mm rings made by Nightforce": {
+		"mod_scope": "0"
+	},
+	"La Rue Tactical picatinny riser QD LT-101 mount": {
+		"mod_scope": "0"
+	},
+	"Scope mount for VPO-215": {
+		"mod_scope": "0"
+	},
+	"Weigand Weig-a-tinny mount for M1911A1": {
+		"mod_scope": "0"
+	},
+	"KRISS Mk.5 Modular rail for Vector": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2"
+	},
+	"Vltor CASV KeyMod 4 inch guide": {
+		"mod_tactical": "0"
+	},
+	"Magpul M-LOK 4.1 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"Vltor CASV keymod 6 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"Alexander Arms 10 inch guide": {
+		"mod_foregrip": "0",
+		"mod_tactical": "1"
+	},
+	"Magpul M-LOK 2.5 inch guide": {
+		"mod_tactical": "0"
+	},
+	"Troy QARS 4.2 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"Vltor CASV 5 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"34mm one piece magmount made by Nightforce": {
+		"mod_scope": "0"
+	},
+	"M14 UTG 4 point locking deluxe mount": {
+		"mod_scope": "0"
+	},
+	"HK UMP Side rail": {
+		"mod_tactical": "0"
+	},
+	"Weaver extended multi-slot base for Remington model 700": {
+		"mod_scope": "0",
+		"mod_sight_rear": "1"
+	},
+	"Arms #18 mount  for M14": {
+		"mod_scope": "0"
+	},
+	"Strike industries bridge guide": {
+		"mod_mount": "0",
+		"mod_tactical": "1",
+		"mod_foregrip": "2"
+	},
+	"TOZ-106 scope mount": {
+		"mod_scope": "0"
+	},
+	"NCStar Trigger guard mount for M1911A1": {
+		"mod_tactical": "0"
+	},
+	"Strike industries keymod 4 inch guide": {
+		"mod_tactical": "0"
+	},
+	"Strike industries keymod 6 inch guide": {
+		"mod_foregrip": "0"
+	},
+	"M14 Ultimak M8 upper part": {
+		"mod_scope": "0",
+		"mod_tactical": "1"
+	},
+	"GP-34 underbarrel grenade launcher": {
+		"launcher_0_grenade": "0"
+	},
+	"B-10М foregrip and rail mount B-19": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3"
+	},
+	"Hexagon handguard for AK(anodized red)": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3"
+	},
+	"MP5 TL-99 Aluminum handguard": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2"
+	},
+	"Custom plastic MP-133 forestock with mounts": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2"
+	},
+	"TDI AKM-L handguard for AK": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"Magpul MOE AKM HAND GUARD (Stealth Gray) for AK": {
+		"mod_mount_003": "0",
+		"mod_mount_000": "1"
+	},
+	"HK quadrail handguard for 416-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_sight_front": "2",
+		"mod_tactical_000": "3",
+		"mod_tactical_001": "4",
+		"mod_tactical_002": "5"
+	},
+	"B-11 AKS-74U Handguard": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2"
+	},
+	"Magpul MOE AKM HAND GUARD (Black) for AK": {
+		"mod_mount_003": "0",
+		"mod_mount_000": "1"
+	},
+	"CAA HX-5 MP5 handguard": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_tactical_003": "4"
+	},
+	"Daniel Defence RIS II 9.5 foregrip for AR-15-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical001": "2",
+		"mod_tactical002": "3",
+		"mod_sight_front": "4",
+		"mod_tactical": "5"
+	},
+	"Krebs Custom UFM Keymod System handguard for AKM": {
+		"mod_scope": "0",
+		"mod_tactical": "1",
+		"mod_mount_000": "2",
+		"mod_mount_001": "3",
+		"mod_mount_002": "4",
+		"mod_mount_003": "5"
+	},
+	"Zenit B-10 AK Handguard": {
+		"mod_foregrip": "0",
+		"mod_tactical": "1"
+	},
+	"B-30 foregrip and rail mount B-31С": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_tactical_000": "4"
+	},
+	"Hexagon handguard for AK": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3"
+	},
+	"Magpul MOE AKM HAND GUARD (Plum) for AK": {
+		"mod_mount_003": "0",
+		"mod_mount_000": "1"
+	},
+	"Knight's Armament KAC RIS handguard for AR-15 and compatibles": {
+		"mod_tactical": "0",
+		"mod_tactical_2": "1",
+		"mod_foregrip": "2",
+		"mod_mount": "3",
+		"mod_tactical_003": "4"
+	},
+	"Magpul MOE AKM HAND GUARD (Flat Dark Earth) for AK": {
+		"mod_mount_003": "0",
+		"mod_mount_000": "1"
+	},
+	"X47 Tactical Handguard for AK and compatible": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4",
+		"mod_mount": "5"
+	},
+	"SAI 14.5\" QD Rail foregrip for AR15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_scope": "2",
+		"mod_foregrip": "3",
+		"mod_sight_front": "4",
+		"mod_muzzle": "5",
+		"mod_tactical_000": "6",
+		"mod_tactical_001": "7",
+		"mod_tactical_002": "8",
+		"mod_tactical_003": "9"
+	},
+	"Magpul MOE M870 forestock": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"VLTOR CMRD Keymod handguard for AK": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3"
+	},
+	"Fab Defence PR870 forestock": {
+		"mod_foregrip": "0",
+		"mod_tactical_001": "1",
+		"mod_tactical_000": "2"
+	},
+	"TDI AKM-L handguard for AK Anodized Red": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"HK quadrail handguard with a flip-up sight for 416-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4"
+	},
+	"Strike Industries Viper carbine length M-LOK foregrip for AR-15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_foregrip": "2"
+	},
+	"XRSU47SU Tactical Handguard for AKS-74U": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4"
+	},
+	"Magpul Zhukov-U HAND GUARD (FDE) for AK": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"Midwest 13.5\" M-LOK foregrip for 416A5": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_scope": "4",
+		"mod_foregrip": "5",
+		"mod_sight_front": "6"
+	},
+	"Desert Tech foregrip for MDR": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_sight_front": "4"
+	},
+	"Magpul Zhukov-U HAND GUARD (Black) for AK": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"Handguard War Sport LVOA-C blk. for use with AR-15 and compatible": {
+		"mod_scope": "0",
+		"mod_tactical": "1",
+		"mod_mount_000": "2",
+		"mod_mount_002": "3",
+		"mod_mount_003": "4",
+		"mod_mount_004": "5",
+		"mod_sight_front": "6"
+	},
+	"Midwest 4.5 inch M-LOK foregrip for MPX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_sight_front": "3"
+	},
+	"Midwest 14 inch M-LOK foregrip for MPX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_mount_004": "4",
+		"mod_foregrip": "5",
+		"mod_mount_005": "6",
+		"mod_mount_006": "7",
+		"mod_sight_front": "8"
+	},
+	"Magpul MOE SL mid length M-LOK foregrip for AR15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_foregrip": "2"
+	},
+	"Magpul MOE M590 forestock": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"Vltor CASV FAS foregrip for FAL": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_scope": "3"
+	},
+	"Lancer OEM 14 inch M-LOK foregrip for MPX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_mount_004": "4",
+		"mod_foregrip": "5"
+	},
+	"Aim sport Universal M-LOK foregrip for FAL": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_tactical": "4",
+		"mod_scope": "5"
+	},
+	"SAG MK1 Freefloat Chassis for SVD": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_scope": "4",
+		"mod_foregrip": "5",
+		"mod_mount": "6"
+	},
+	"Polymer ASh-12 foregrip": {
+		"mod_foregrip": "0"
+	},
+	"Kel-Tec RFB regular handguard": {
+		"mod_mount_000": "0"
+	},
+	"CAA RS47 foregrip for AK-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3"
+	},
+	"Midwest 9\" M-LOK foregrip for 416A5": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_tactical": "2",
+		"mod_scope": "3",
+		"mod_foregrip": "4",
+		"mod_sight_front": "5"
+	},
+	"HK MRS 14\" keymod foregrip for 416A5": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_mount_004": "4",
+		"mod_tactical": "5",
+		"mod_scope": "6",
+		"mod_sight_front": "7",
+		"mod_foregrip": "8"
+	},
+	"Strike industries TRAX 2": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_tactical": "2"
+	},
+	"URX 3 8\" handguard for AR15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_foregrip": "2",
+		"mod_sight_front": "3",
+		"mod_tactical_000": "4",
+		"mod_tactical_001": "5",
+		"mod_tactical_002": "6",
+		"mod_tactical_003": "7"
+	},
+	"Handguard War Sport LVOA-S blk. for use with AR-15 and compatible": {
+		"mod_scope": "0",
+		"mod_tactical": "1",
+		"mod_mount_000": "2",
+		"mod_mount_002": "3",
+		"mod_mount_003": "4",
+		"mod_mount_004": "5",
+		"mod_sight_front": "6"
+	},
+	"Midwest 6.5 inch M-LOK foregrip for MPX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_foregrip": "4",
+		"mod_sight_front": "5"
+	},
+	"TDI AKM-L handguard for AK Anodized Bronze": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"Daniel Defence RIS II 12.25 foregrip for AR-15-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_sight_front": "4",
+		"mod_tactical_000": "5",
+		"mod_tactical_003": "6"
+	},
+	"Strike industries TRAX 1 foregrip": {
+		"mod_scope": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2",
+		"mod_mount_002": "3"
+	},
+	"CAA XRS DRG for SVD": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4",
+		"mod_tactical_003": "5"
+	},
+	"Vltor CASV FAL foregrip for FAL": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_tactical": "4",
+		"mod_scope": "5"
+	},
+	"Magpul Zhukov-U HAND GUARD (Plum) for AK": {
+		"mod_foregrip": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2"
+	},
+	"Desert Tech foregrip for MDR blk": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_sight_front": "4"
+	},
+	"Izhmash RPK-16 regular handguard": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_scope": "2",
+		"mod_foregrip": "3",
+		"mod_tactical_000": "4"
+	},
+	"SOK-12 aluminum handguard MTU002 Long Top": {
+		"mod_scope": "0",
+		"mod_foregrip": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4"
+	},
+	"Remington Arms handguard for a R11 RSASS": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical": "2",
+		"mod_mount_000": "3",
+		"mod_mount_001": "4",
+		"mod_mount_002": "5",
+		"mod_mount_003": "6",
+		"mod_mount_004": "7"
+	},
+	"Noveske SWS N6 Split handguard for AR-10-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_mount": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_sight_front": "4",
+		"mod_tactical_000": "5",
+		"mod_tactical_003": "6"
+	},
+	"Polymer AK-100 series foregrip": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1"
+	},
+	"Stngr Vypr 10\" M-LOK foregrip for AR15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_scope": "4",
+		"mod_foregrip": "5",
+		"mod_sight_front": "6"
+	},
+	"SOK-12 aluminum handguard MTU002 Short Top": {
+		"mod_scope": "0",
+		"mod_foregrip": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4"
+	},
+	"Magpul MOE SL carbine length M-LOK foregrip for AR-15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_foregrip": "2"
+	},
+	"SAI 10\" QD Rail foregrip for AR15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_scope": "2",
+		"mod_foregrip": "3",
+		"mod_sight_front": "4",
+		"mod_muzzle": "5",
+		"mod_tactical_000": "6",
+		"mod_tactical_001": "7",
+		"mod_tactical_002": "8",
+		"mod_tactical_003": "9"
+	},
+	"Geissele SMR Mk.16 9.5 inch M-LOK handguard for AR-15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_tactical_000": "2",
+		"mod_scope": "3",
+		"mod_foregrip": "4",
+		"mod_sight_front": "5"
+	},
+	"Noveske SWS N6 10.5 inch foregrip for AR-10-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_mount": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_sight_front": "4",
+		"mod_tactical_000": "5"
+	},
+	"Alfa Arms Goliaf AKS-74U Handguard": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_tactical_003": "4",
+		"mod_scope": "5"
+	},
+	"Midwest 10.5 inch M-LOK foregrip for MPX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_foregrip": "4",
+		"mod_sight_front": "5"
+	},
+	"SIG 12\" keymod foregrip for MCX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_sight_front": "2",
+		"mod_foregrip": "3"
+	},
+	"Troy Industries 13\" M-LOK foregrip for 416A5": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_scope": "4",
+		"mod_sight_front": "5",
+		"mod_foregrip": "6"
+	},
+	"Sword int. 18 inch handguard for Mk-18": {
+		"mod_scope": "0",
+		"mod_tactical_000": "1",
+		"mod_mount_000": "2",
+		"mod_mount_002": "3",
+		"mod_sight_front": "4",
+		"mod_foregrip": "5",
+		"mod_mount_001": "6"
+	},
+	"Strike Industries Viper carbine length M-LOK foregrip (FDE) for AR-15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_foregrip": "2"
+	},
+	"LOBAEV Arms DVL-10 М2 handguard": {
+		"mod_tactical_000": "0",
+		"mod_tactical_001": "1"
+	},
+	"Handguard MK 10 for use with AR-15 and compatible": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2"
+	},
+	"URX-4 handguard for AR-10 and compatible": {
+		"mod_scope": "0",
+		"mod_tactical": "1",
+		"mod_mount_000": "2",
+		"mod_mount_002": "3",
+		"mod_sight_front": "4",
+		"mod_foregrip": "5",
+		"mod_mount_001": "6"
+	},
+	"Geissele SMR Mk.16 13.5 inch M-LOK handguard for AR-15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical_000": "3",
+		"mod_scope": "4",
+		"mod_foregrip": "5",
+		"mod_sight_front": "6"
+	},
+	"Orsis handguard for T-5000": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_foregrip": "4"
+	},
+	"PTR Tri-Rail MP5 handguard": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2"
+	},
+	"A*B Arms MOD X Gen.3 keymod handguard for M700": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical_000": "3",
+		"mod_sight_front": "4",
+		"mod_foregrip": "5"
+	},
+	"SIG 8\" keymod foregrip for MCX": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_sight_front": "2",
+		"mod_foregrip": "3"
+	},
+	"Izhmash modern handguard for SVD": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_scope": "4",
+		"mod_foregrip": "5",
+		"mod_mount_003": "6"
+	},
+	"Handguard SIG MPX Gen. 1 for MPX": {
+		"mod_sight_front": "0",
+		"mod_mount_000": "1",
+		"mod_mount_001": "2",
+		"mod_mount_002": "3"
+	},
+	"Daniel Defence FDE RIS II FSP 9.5 foregrip for AR-15-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_tactical_001": "1",
+		"mod_tactical_002": "2",
+		"mod_tactical_000": "3"
+	},
+	"Aim sport Universal keymod foregrip for FAL": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_mount_003": "3",
+		"mod_mount_004": "4",
+		"mod_mount_005": "5"
+	},
+	"URX 3.1 10.75\" handguard for AR15": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_scope": "2",
+		"mod_foregrip": "3",
+		"mod_sight_front": "4",
+		"mod_tactical_000": "5",
+		"mod_tactical_001": "6",
+		"mod_tactical_002": "7",
+		"mod_tactical_003": "8"
+	},
+	"UltiMAK M1-B handguard for AK": {
+		"mod_scope": "0"
+	},
+	"DS Arms quad rail foregrip for SA-58": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_mount": "4"
+	},
+	"HK extended quadrail handguard for 416-compatible systems": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_sight_front": "2",
+		"mod_tactical_000": "3",
+		"mod_tactical_001": "4",
+		"mod_tactical_002": "5"
+	},
+	"5.45 Design \"Aggressor\" handguard for AK": {
+		"mod_foregrip": "0",
+		"mod_scope": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_tactical_000": "4",
+		"mod_tactical_003": "5"
+	},
+	"SOK-12 aluminum handguard Bravo-18": {
+		"mod_scope": "0",
+		"mod_foregrip": "1",
+		"mod_tactical_000": "2",
+		"mod_tactical_001": "3",
+		"mod_tactical_002": "4",
+		"mod_tactical_003": "5",
+		"mod_tactical_004": "6"
+	},
+	"Lone Star Ion Lite handguard for AR-15 and compatible": {
+		"mod_scope": "0",
+		"mod_tactical": "1",
+		"mod_mount_000": "2",
+		"mod_mount_002": "3",
+		"mod_mount_003": "4",
+		"mod_mount_004": "5",
+		"mod_sight_front": "6",
+		"mod_foregrip": "7",
+		"mod_mount_001": "8"
+	},
+	"DS Arms Quad Rail Full Length foregrip for SA-58": {
+		"mod_foregrip": "0",
+		"mod_tactical_000": "1",
+		"mod_tactical_001": "2",
+		"mod_tactical_002": "3",
+		"mod_mount": "4",
+		"mod_tactical_003": "5"
+	},
+	"Strike Industries CRUX 15\" M-LOK foregrip for 416A5": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2",
+		"mod_tactical": "3",
+		"mod_scope": "4",
+		"mod_foregrip": "5"
+	},
+	"Lancer LCH-7 12.5 inch M-LOK handguard for AR-10": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_foregrip": "2"
+	},
+	"AS VAL Pistol grip-buffer tube": {
+		"mod_stock_000": "0"
+	},
+	"Fab Defence AGR-870 pistol grip for Remington-870": {
+		"mod_stock": "0"
+	},
+	"Polymer pistol grip for KS-23M": {
+		"mod_stock": "0"
+	},
+	"4.5\" 9x19 barrel for MPX": {
+		"mod_muzzle": "0"
+	},
+	"660mm barrel for МR-133 12ga shotgun": {
+		"mod_muzzle": "0"
+	},
+	"610 mm barrel for MP-153 12ga shotgun": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"660 mm barrel for MP-153 12ga shotgun": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"165 mm 9x19 barrel for MPX-SD": {
+		"mod_muzzle": "0"
+	},
+	"6.5\" 9x19 barrel for MPX": {
+		"mod_muzzle": "0"
+	},
+	"750mm barrel for MP-133 12ga shotgun": {
+		"mod_muzzle": "0"
+	},
+	"540mm barrel for MP-133 12ga shotgun": {
+		"mod_muzzle": "0"
+	},
+	"14\" 9x19 barrel for MPX": {
+		"mod_muzzle": "0"
+	},
+	"370mm barrel for AR-15 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"610mm barrel for MP-133 12ga shotgun": {
+		"mod_muzzle": "0"
+	},
+	"171mm barrel for MCX and compatible .300 BLK": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"500mm .308 barrel for DVL-10": {
+		"mod_muzzle": "0",
+		"mod_bipod": "1"
+	},
+	"22\" barrel for a AR-10 and compatible 7.62x51 NATO": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"10.5\" barrel for P90 5.7x28": {
+		"mod_muzzle": "0"
+	},
+	"710mm barrel for MP-133 12ga shotgun": {
+		"mod_muzzle": "0"
+	},
+	"229mm barrel for MCX and compatible .300 BLK": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"18\" barrel for AR-15 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"24\" barrel for Mk-18 .338 LM": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"18\" barrel for RFB 7.62x51": {
+		"mod_muzzle": "0"
+	},
+	"203 mm 9x19 barrel for MPX": {
+		"mod_muzzle": "0"
+	},
+	"710 mm barrel for MP-153 12ga shotgun": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"750 mm barrel for MP-153 12ga shotgun": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"406mm Molot barrel for AR-15 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"18\" barrel for a AR-10 and compatible 7.62x51 NATO": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"10.5\" 9x19 barrel for MPX": {
+		"mod_muzzle": "0"
+	},
+	"510mm barrel for MP-133 12ga": {
+		"mod_muzzle": "0"
+	},
+	"260mm barrel for AR-15 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"20\" barrel for AR-15 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"660mm .308 barrel for DVL-10 M2": {
+		"mod_muzzle": "0",
+		"mod_handguard": "1"
+	},
+	"750mm barrel for MP-133 12ga shotgun with rib": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"Threaded barrel for Five-seveN 5.7x28": {
+		"mod_muzzle": "0"
+	},
+	"Threaded barrel for M9A3 9x19": {
+		"mod_muzzle": "0"
+	},
+	"660mm vent rib barrel for M870 12ga": {
+		"mod_mount": "0"
+	},
+	"11\" barrel for SA-58 7.62x51": {
+		"mod_muzzle": "0"
+	},
+	"5\" barrel for Vector 9x19": {
+		"mod_muzzle": "0"
+	},
+	"Threaded barrel for Glock 9x19 manufactured by Double Diamond": {
+		"mod_muzzle": "0"
+	},
+	"660mm barrel for MP-133 12ga shotgun with rib": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"11\" barrel for 416A5 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"540mm barrel for МR-133 12ga shotgun with rib": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"Regular 730mm Mosin barrel": {
+		"mod_sight_front": "0",
+		"mod_sight_rear": "1",
+		"mod_muzzle": "2"
+	},
+	"16.5\" barrel for 416A5 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"20\" barrel for M590 12ga": {
+		"mod_sight_front": "0"
+	},
+	"20\" barrel for a Remington M700 7.62x51 NATO": {
+		"mod_muzzle": "0"
+	},
+	"Regular 514mm Mosin carbine barrel": {
+		"mod_sight_front": "0",
+		"mod_sight_rear": "1",
+		"mod_muzzle": "2"
+	},
+	"14.5\" barrel for 416A5 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"20\" barrel for 416A5 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"Threaded barrel for Glock 9x19 manufactured by Salient Arms": {
+		"mod_muzzle": "0"
+	},
+	"16\" barrel for SA-58 7.62x51": {
+		"mod_muzzle": "0"
+	},
+	"6\" Vector barrel .45 ACP": {
+		"mod_muzzle": "0"
+	},
+	"20\" barrel for SR-25 and compatible 7.62x51": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"10.6\" barrel for 416A5 and compatible 5.56x45": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"Threaded barrel for P226 9x19": {
+		"mod_muzzle": "0"
+	},
+	"23\" barrel for a VPO-215 .366TKM": {
+		"mod_muzzle": "0"
+	},
+	"610mm barrel for MP-133 12ga shotgun with rib": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"660mm .308 barrel for T-5000": {
+		"mod_muzzle": "0"
+	},
+	"508mm barrel for M870 12ga": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"710mm barrel for МR-133 12ga shotgun with rib": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"Threaded barrel for M1911A1 .45 ACP": {
+		"mod_muzzle": "0"
+	},
+	"5\" Vector barrel .45 ACP": {
+		"mod_muzzle": "0"
+	},
+	"21\" barrel for SA-58 7.62x51": {
+		"mod_muzzle": "0"
+	},
+	"16 inch .308 barrel for MDR and compatible": {
+		"mod_muzzle": "0"
+	},
+	"Homespun 121mm 7.62x25 ТТ barrel with threading": {
+		"mod_muzzle": "0"
+	},
+	"Threaded barrel for Glock 9x19 manufactured by Lone Wolf.": {
+		"mod_muzzle": "0"
+	},
+	"406mm barrel for MDR and compatible 5.56x45": {
+		"mod_muzzle": "0"
+	},
+	"16\" barrel for SR-25 and compatible 7.62x51": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1"
+	},
+	"15\" barrel for RPK-16 and compatible 5.45x39": {
+		"mod_muzzle": "0"
+	},
+	"22\" barrel for RPK-16 and compatible 5.45x39": {
+		"mod_muzzle": "0"
+	},
+	"22\" barrel for a SVDS 7.62x54": {
+		"mod_muzzle": "0",
+		"mod_gas_block": "1",
+		"mod_mount": "2"
+	},
+	"510mm barrel for MP-133 12ga shotgun with rib": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"508mm barrel for M870 12ga with a fixed sight": {
+		"mod_muzzle": "0",
+		"mod_mount": "1"
+	},
+	"16\" barrel for a M1A 7.62x51 NATO": {
+		"mod_muzzle": "0"
+	},
+	"22\" barrel for a M1A 7.62x51 NATO": {
+		"mod_muzzle": "0"
+	},
+	"20\" stainless steel barrel for a Remington M700 7.62x51 NATO": {
+		"mod_muzzle": "0"
+	},
+	"Sawn off 220mm Mosin barrel": {
+		"mod_muzzle": "0",
+		"mod_sight_rear": "1"
+	},
+	"6\" barrel for Vector 9x19": {
+		"mod_muzzle": "0"
+	},
+	"Upper receiver B&T 9x19 for MP9-N SMG": {
+		"mod_scope": "0",
+		"mod_sight_rear": "1",
+		"mod_mount": "2"
+	},
+	"HK MP5 Kurz Upper receiver": {
+		"mod_handguard": "0",
+		"mod_sight_rear": "1",
+		"mod_stock": "2",
+		"mod_mount": "3"
+	},
+	"Molot АКM type dust cover": {
+		"mod_mount": "0"
+	},
+	"AKademia Bastion dust cover for АК": {
+		"mod_scope": "0"
+	},
+	"FN EFFEN 90 Upper receiver for P90": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_scope": "2"
+	},
+	"Izhmash АКM dust cover (6P1 0-1)": {
+		"mod_mount": "0"
+	},
+	"Izhmash АК-74 dust cover (6P1 0-1)": {
+		"mod_mount": "0"
+	},
+	"Glock 9x19 slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"HK MP5SD Upper receiver": {
+		"mod_handguard": "0",
+		"mod_sight_rear": "1",
+		"mod_stock": "2",
+		"mod_muzzle": "3",
+		"mod_mount": "4"
+	},
+	"Glock 18C 9x19 slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"M1911A1 .45 ACP slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"Fab Defence PDC dust cover for АК-74": {
+		"mod_scope": "0"
+	},
+	"Upper receiver of the first generation Sig-Sauer MCX": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3",
+		"mod_tactical": "4"
+	},
+	"Zenit B-33 dust cover for АК-74": {
+		"mod_scope": "0"
+	},
+	"M45A1 .45 ACP slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"Izhmash АК-74M dust cover (6P34 0-1)": {
+		"mod_mount": "0"
+	},
+	"M9A3 9x19 pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"Upper receiver of the first generation SIG MPX ": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3",
+		"mod_tactical_000": "4"
+	},
+	"Polymer80 PS9 Glock slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"FN Upper receiver for PS90": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2"
+	},
+	"Upper receiver ADAR 2-15 5.56x45 for 2-15 assault rifle": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"Upper receiver Colt M4A1 5.56x45 for M4A1 assault rifle": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"SIG Sauer P226R 9x19 pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"Upper receiver HK 416A5 5.56x45 for 416A5": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"FN Upper receiver for P90": {
+		"mod_mount_000": "0",
+		"mod_mount_001": "1",
+		"mod_mount_002": "2"
+	},
+	"HK MP5 Upper receiver": {
+		"mod_handguard": "0",
+		"mod_sight_rear": "1",
+		"mod_stock": "2",
+		"mod_muzzle": "3",
+		"mod_mount": "4"
+	},
+	"Noveske Gen.3 5.56x45 Upper receiver for AR systems": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"Vltor MUR-1S 5.56x45 Upper receiver for AR systems": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"P226 Sig Legion full size pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"Izhmash Vityaz-SN receiver cover": {
+		"mod_scope": "0"
+	},
+	"P226 Sig Emperor scorpion pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"Glock Alpha Wolf Custom slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"Izhmash regular dust cover for RPK-16": {
+		"mod_scope": "0",
+		"mod_sight_rear": "1"
+	},
+	"Upper receiver B&T 9x19 for MP9 SMG": {
+		"mod_scope": "0",
+		"mod_sight_rear": "1",
+		"mod_mount": "2"
+	},
+	"AKS-74U Dust cover (6P26 Sb.7)": {
+		"mod_mount_000": "0"
+	},
+	"Upper receiver KAC 7.62x51 for SR-25 rifle": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"Glock Alpha Wolf slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"P226 Axelson tactical Mk.25 pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"DS Arms Extreme Duty dust cover for SA58": {
+		"mod_scope": "0"
+	},
+	"Five-seveN MK2 pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"TWS Dog leg rail dust cover for АК": {
+		"mod_scope": "0"
+	},
+	"Lightweight upper 5.56x45 for TX15 rifle": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"Glock 9x19 Moto Cut slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"Glock 9x19 Viper Cut slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_muzzle": "2"
+	},
+	"Zev Tech Hex Gen3 slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_scope": "2",
+		"mod_muzzle": "3"
+	},
+	"Glock Zev Tech Hex Spartan slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1",
+		"mod_scope": "2",
+		"mod_muzzle": "3"
+	},
+	"Sword Int. Mk-18 mod 1 Upper receiver": {
+		"mod_scope": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_sight_rear": "3"
+	},
+	"P226 Sig Stainless elite pistol slide": {
+		"mod_sight_rear": "0",
+		"mod_sight_front": "1"
+	},
+	"Simonov Semi-Automatic Carbine SKS 7.62x39 Hunting Rifle\nVersion": {
+		"mod_stock": "0",
+		"mod_sight_rear": "1",
+		"mod_magazine": "2",
+		"mod_mount": "3",
+		"mod_muzzle": "4"
+	},
+	"Simonov Semi-Automatic Carbine SKS 7.62x39": {
+		"mod_stock": "0",
+		"mod_sight_rear": "1",
+		"mod_magazine": "2",
+		"mod_muzzle": "3"
+	},
+	"Vepr Hunter/VPO-101 7.62x51 carbine": {
+		"mod_gas_block": "0",
+		"mod_reciever": "1",
+		"mod_sight_rear": "2",
+		"mod_stock": "3",
+		"mod_magazine": "4",
+		"mod_mount": "5",
+		"mod_muzzle": "6"
+	},
+	"AS VAL": {
+		"mod_muzzle": "0",
+		"mod_reciever": "1",
+		"mod_magazine": "2",
+		"mod_pistol_grip": "3",
+		"mod_stock": "4",
+		"mod_charge": "5",
+		"mod_mount_004": "6",
+		"mod_mount_000": "7"
+	},
+	"SVDS 7.62x54 Sniper rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_stock": "2",
+		"mod_barrel": "3",
+		"mod_mount_000": "4",
+		"mod_mount_001": "5",
+		"mod_reciever": "6",
+		"mod_mount_002": "7"
+	},
+	"Knight's Armament Company SR-25 7.62x51": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_stock": "2",
+		"mod_reciever": "3",
+		"mod_charge": "4"
+	},
+	"Kel-Tec RFB 7.62x51": {
+		"mod_magazine": "0",
+		"mod_barrel": "1",
+		"mod_handguard": "2",
+		"mod_mount": "3"
+	},
+	"Springfield Armory M1A 7.62x51": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_barrel": "2",
+		"mod_sight_rear": "3",
+		"mod_mount": "4"
+	},
+	"Remington R11 RSASS 7.62x51": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_stock": "2",
+		"mod_handguard": "3",
+		"mod_barrel": "4",
+		"mod_scope": "5",
+		"mod_sight_rear": "6"
+	},
+	"Mk-18 .338 LM marksman rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_stock_001": "2",
+		"mod_reciever": "3"
+	},
+	"Special Sniper Rifle VSS Vintorez ": {
+		"mod_mount_000": "0",
+		"mod_magazine": "1",
+		"mod_muzzle": "2",
+		"mod_reciever": "3",
+		"mod_stock": "4",
+		"mod_charge": "5",
+		"mod_mount_004": "6"
+	},
+	"MP-153 12ga semi-automatic shotgun": {
+		"mod_barrel": "0",
+		"mod_handguard": "1",
+		"mod_magazine": "2",
+		"mod_stock": "3",
+		"mod_mount": "4",
+		"mod_mount_000": "5"
+	},
+	"TOZ-106 bolt-action shotgun": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_mount_000": "2"
+	},
+	"MP-133 12ga shotgun": {
+		"mod_barrel": "0",
+		"mod_handguard": "1",
+		"mod_magazine": "2",
+		"mod_stock": "3",
+		"mod_mount_001": "4",
+		"mod_mount_000": "5"
+	},
+	"Mossberg 590A1 12ga shotgun": {
+		"mod_barrel": "0",
+		"mod_handguard": "1",
+		"mod_magazine": "2",
+		"mod_stock": "3",
+		"mod_mount": "4"
+	},
+	"Saiga 12ga ver. 10 12/76 shotgun": {
+		"mod_mount_000": "0",
+		"mod_handguard": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8"
+	},
+	"Remington Model 870 12ga shotgun": {
+		"mod_barrel": "0",
+		"mod_handguard": "1",
+		"mod_magazine": "2",
+		"mod_stock": "3",
+		"mod_mount": "4"
+	},
+	"TOZ KS-23M 23x75mm shotgun": {
+		"mod_barrel": "0",
+		"mod_handguard": "1",
+		"mod_magazine": "2",
+		"mod_stock": "3"
+	},
+	"FN GL40 Mk.2 grenade launcher": {
+		"mod_pistol_grip": "0",
+		"mod_sight_front": "1",
+		"mod_sight_rear": "2",
+		"mod_scope": "3",
+		"mod_tactical_000": "4",
+		"mod_tactical_001": "5",
+		"mod_tactical_002": "6"
+	},
+	"Mosin bolt-action infantry rifle": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_barrel": "2"
+	},
+	"Mosin bolt-action sniper rifle": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_barrel": "2",
+		"mod_mount": "3"
+	},
+	"SV-98 bolt-action sniper rifle": {
+		"mod_magazine": "0",
+		"mod_scope": "1",
+		"mod_sight_rear": "2",
+		"mod_tactical": "3",
+		"mod_muzzle": "4",
+		"mod_bipod": "5"
+	},
+	"Molot VPO-215 .366 TKM rifle": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_barrel": "2",
+		"mod_mount": "3"
+	},
+	"Orsis T-5000 .308 sniper rifle": {
+		"mod_magazine": "0",
+		"mod_barrel": "1",
+		"mod_stock": "2",
+		"mod_mount": "3"
+	},
+	"DVL-10 Saboteur sniper rifle": {
+		"mod_magazine": "0",
+		"mod_scope": "1",
+		"mod_barrel": "2",
+		"mod_pistol_grip": "3",
+		"mod_stock": "4"
+	},
+	"Remington Model 700 Sniper rifle": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_barrel": "2",
+		"mod_mount": "3"
+	},
+	"PM 9x18PM pistol": {
+		"mod_magazine": "0"
+	},
+	"Silenced Stechkin Automatic Pistol 9x18PM": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_pistol_grip": "2",
+		"mod_sight_front": "3",
+		"mod_sight_rear": "4",
+		"mod_muzzle": "5"
+	},
+	"GLOCK 18C 9x19 pistol": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_reciever": "2",
+		"mod_magazine": "3",
+		"mod_tactical": "4",
+		"mod_mount": "5",
+		"mod_stock": "6"
+	},
+	"PM (t) 9x18PM pistol": {
+		"mod_magazine": "0",
+		"mod_muzzle": "1"
+	},
+	"FN Five-seveN MK2 FDE Frame 5.7x28 pistol": {
+		"mod_barrel": "0",
+		"mod_reciever": "1",
+		"mod_magazine": "2",
+		"mod_tactical": "3"
+	},
+	"TT pistol 7.62x25 TT": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_magazine": "2",
+		"mod_muzzle": "3",
+		"mod_tactical": "4"
+	},
+	"9x21 Serdyukov automatic pistol SR1MP Gyurza": {
+		"mod_mount": "0",
+		"mod_magazine": "1"
+	},
+	"Yarygin MP-443 Grach 9x19 pistol": {
+		"mod_mount": "0",
+		"mod_magazine": "1",
+		"mod_pistol_grip": "2"
+	},
+	"FN Five-seveN MK2 5.7x28 pistol": {
+		"mod_barrel": "0",
+		"mod_reciever": "1",
+		"mod_magazine": "2",
+		"mod_tactical": "3"
+	},
+	"Beretta M9A3 9x19 pistol": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_reciever": "2",
+		"mod_magazine": "3",
+		"mod_tactical": "4"
+	},
+	"PB 9x18PM silenced pistol": {
+		"mod_magazine": "0",
+		"mod_muzzle": "1",
+		"mod_pistol_grip": "2"
+	},
+	"TT pistol 7.62x25 TT Gold": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_magazine": "2",
+		"mod_muzzle": "3",
+		"mod_tactical": "4"
+	},
+	"P226R 9x19 pistol": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_reciever": "2",
+		"mod_magazine": "3",
+		"mod_tactical": "4"
+	},
+	"GLOCK 17 9x19 pistol": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_reciever": "2",
+		"mod_magazine": "3",
+		"mod_tactical": "4",
+		"mod_mount": "5",
+		"mod_stock": "6"
+	},
+	"Colt M1911A1 .45 ACP pistol": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_reciever": "2",
+		"mod_magazine": "3",
+		"mod_trigger": "4",
+		"mod_hammer": "5",
+		"mod_catch": "6",
+		"mod_mount_000": "7",
+		"mod_mount_001": "8"
+	},
+	"Colt M45A1 .45 ACP pistol": {
+		"mod_barrel": "0",
+		"mod_pistol_grip": "1",
+		"mod_reciever": "2",
+		"mod_magazine": "3",
+		"mod_trigger": "4",
+		"mod_hammer": "5",
+		"mod_catch": "6",
+		"mod_mount_000": "7"
+	},
+	"Stechkin Automatic Pistol 9x18PM": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_pistol_grip": "2",
+		"mod_sight_front": "3",
+		"mod_sight_rear": "4"
+	},
+	"Kalashnikov AKS-74U 5.45x39": {
+		"mod_pistol_grip": "0",
+		"mod_stock": "1",
+		"mod_charge": "2",
+		"mod_magazine": "3",
+		"mod_muzzle": "4",
+		"mod_reciever": "5",
+		"mod_gas_block": "6"
+	},
+	"AK-102 5.56x45 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"DT MDR 7.62x51 Assault Rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_handguard": "2",
+		"mod_barrel": "3",
+		"mod_scope": "4",
+		"mod_sight_rear": "5"
+	},
+	"DS Arms SA-58 7.62x51": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_handguard": "2",
+		"mod_barrel": "3",
+		"mod_sight_rear": "4",
+		"mod_reciever": "5",
+		"mod_stock": "6"
+	},
+	"AKMS 7.62x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip_akms": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock_akms": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8",
+		"mod_sight_front": "9"
+	},
+	"AK-74N 5.45x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"AKMN 7.62x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8",
+		"mod_mount_000": "9",
+		"mod_sight_front": "10"
+	},
+	"Lone Star TX-15 DML Rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_stock": "3",
+		"mod_charge": "4"
+	},
+	"HK 416A5 5.56x45 Assault Rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_stock": "3",
+		"mod_charge": "4"
+	},
+	"Kalashnikov AKS-74UB 5.45x39": {
+		"mod_pistol_grip": "0",
+		"mod_stock": "1",
+		"mod_charge": "2",
+		"mod_magazine": "3",
+		"mod_muzzle": "4",
+		"mod_reciever": "5",
+		"mod_mount_000": "6",
+		"mod_gas_block": "7"
+	},
+	"SIG MCX .300 AAC Blackout Assault Rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_stock": "3",
+		"mod_charge": "4"
+	},
+	"Vepr KM / VPO-136 7.62x39 carbine": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8",
+		"mod_sight_front": "9"
+	},
+	"AK-105 5.45x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"AK-101 5.56x45 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"Kalashnikov AKS-74UN 5.45x39": {
+		"mod_pistol_grip": "0",
+		"mod_stock": "1",
+		"mod_charge": "2",
+		"mod_magazine": "3",
+		"mod_muzzle": "4",
+		"mod_reciever": "5",
+		"mod_mount_000": "6",
+		"mod_gas_block": "7"
+	},
+	"АKS-74 5.45x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8"
+	},
+	"АK-74 5.45x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8"
+	},
+	"AK-104 7.62x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"AK-103 7.62x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"AKM 7.62x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8",
+		"mod_sight_front": "9"
+	},
+	"AK-74M 5.45x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"Vepr AKM / VPO-209 366TKM carbine": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8",
+		"mod_sight_front": "9"
+	},
+	"AKMSN 7.62x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip_akms": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock_akms": "6",
+		"mod_magazine": "7",
+		"mod_charge": "8",
+		"mod_sight_front": "9",
+		"mod_mount_001": "10"
+	},
+	"AKS-74N 5.45x39 assault rifle": {
+		"mod_gas_block": "0",
+		"mod_launcher": "1",
+		"mod_muzzle": "2",
+		"mod_pistol_grip": "3",
+		"mod_reciever": "4",
+		"mod_sight_rear": "5",
+		"mod_stock": "6",
+		"mod_magazine": "7",
+		"mod_mount_000": "8",
+		"mod_charge": "9"
+	},
+	"ADAR 2-15 .223 Carbine": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_stock": "3",
+		"mod_charge": "4"
+	},
+	"ASh-12 12.7x55 assault rifle": {
+		"mod_muzzle": "0",
+		"mod_sight_rear": "1",
+		"mod_magazine": "2",
+		"mod_sight_front": "3",
+		"mod_handguard": "4",
+		"mod_scope": "5",
+		"mod_tactical_000": "6",
+		"mod_tactical_001": "7",
+		"mod_tactical_002": "8"
+	},
+	"Colt M4A1 5.56x45 Assault Rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_stock": "3",
+		"mod_charge": "4"
+	},
+	"DT MDR 5.56x45 Assault Rifle": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_handguard": "2",
+		"mod_barrel": "3",
+		"mod_scope": "4",
+		"mod_sight_rear": "5"
+	},
+	"Saiga-9 9x19 Carbine": {
+		"mod_pistol_grip": "0",
+		"mod_stock": "1",
+		"mod_charge": "2",
+		"mod_magazine": "3",
+		"mod_muzzle": "4",
+		"mod_reciever": "5",
+		"mod_sight_rear": "6",
+		"mod_gas_block": "7"
+	},
+	"PP-91 Kedr 9x18PM SMG": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_mount": "2"
+	},
+	"Submachinegun PPSH-41 7.62x25": {
+		"mod_stock": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_barrel": "3"
+	},
+	"B&T MP9-N 9x19 Submachinegun": {
+		"mod_magazine": "0",
+		"mod_muzzle": "1",
+		"mod_stock": "2",
+		"mod_foregrip": "3",
+		"mod_reciever": "4",
+		"mod_charge": "5"
+	},
+	"PP-9 Klin 9x18PMM SMG": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_mount": "2"
+	},
+	"HK MP5 9x19 submachinegun (Navy 3 Round Burst)": {
+		"mod_magazine": "0",
+		"mod_reciever": "1",
+		"mod_charge": "2"
+	},
+	"HK MP5 Kurz 9x19 submachinegun": {
+		"mod_magazine": "0",
+		"mod_reciever": "1",
+		"mod_charge": "2"
+	},
+	"PP-91-01 Kedr-B 9x18PM SMG": {
+		"mod_pistol_grip": "0",
+		"mod_muzzle": "1",
+		"mod_magazine": "2"
+	},
+	"Submachinegun PP-19-01 Vityaz-SN 9x19": {
+		"mod_pistol_grip": "0",
+		"mod_stock": "1",
+		"mod_charge": "2",
+		"mod_magazine": "3",
+		"mod_muzzle": "4",
+		"mod_reciever": "5",
+		"mod_sight_rear": "6",
+		"mod_scope": "7",
+		"mod_gas_block": "8"
+	},
+	"TDI Kriss Vector Gen.2 9x19 submachinegun": {
+		"mod_magazine": "0",
+		"mod_sight_front": "1",
+		"mod_sight_rear": "2",
+		"mod_scope": "3",
+		"mod_tactical_000": "4",
+		"mod_stock": "5",
+		"mod_barrel": "6",
+		"mod_mount": "7",
+		"mod_mount_001": "8",
+		"mod_mount_002": "9"
+	},
+	"B&T MP9 9x19 submachinegun": {
+		"mod_magazine": "0",
+		"mod_muzzle": "1",
+		"mod_stock": "2",
+		"mod_reciever": "3",
+		"mod_charge": "4",
+		"mod_mount_000": "5"
+	},
+	"HK UMP 45 submachinegun": {
+		"mod_magazine": "0",
+		"mod_scope": "1",
+		"mod_stock": "2",
+		"mod_barrel": "3",
+		"mod_mount_000": "4",
+		"mod_mount_001": "5",
+		"mod_mount_002": "6"
+	},
+	"HK MP7A2 4.6x30 submachinegun": {
+		"mod_magazine": "0",
+		"mod_muzzle": "1",
+		"mod_sight_front": "2",
+		"mod_sight_rear": "3",
+		"mod_scope": "4",
+		"mod_tactical_000": "5",
+		"mod_tactical_001": "6",
+		"mod_tactical_002": "7",
+		"mod_stock": "8",
+		"mod_foregrip": "9"
+	},
+	"TDI KRISS Vector Gen.2 .45 ACP submachinegun": {
+		"mod_magazine": "0",
+		"mod_sight_front": "1",
+		"mod_sight_rear": "2",
+		"mod_scope": "3",
+		"mod_tactical_000": "4",
+		"mod_stock": "5",
+		"mod_barrel": "6",
+		"mod_mount": "7",
+		"mod_mount_001": "8",
+		"mod_mount_002": "9"
+	},
+	"FN P90 5.7x28 submachinegun": {
+		"mod_magazine": "0",
+		"mod_stock": "1",
+		"mod_reciever": "2",
+		"mod_barrel": "3",
+		"mod_charge": "4"
+	},
+	"HK MP7A1 4.6x30 submachinegun": {
+		"mod_magazine": "0",
+		"mod_muzzle": "1",
+		"mod_sight_front": "2",
+		"mod_sight_rear": "3",
+		"mod_scope": "4",
+		"mod_tactical_000": "5",
+		"mod_tactical_001": "6",
+		"mod_tactical_002": "7",
+		"mod_stock": "8"
+	},
+	"SIG MPX 9x19 Submachine gun": {
+		"mod_pistol_grip": "0",
+		"mod_magazine": "1",
+		"mod_reciever": "2",
+		"mod_stock": "3",
+		"mod_charge": "4"
+	},
+	"NSV \"Utes\" 12.7x108 machine gun": {
+		"mod_magazine": "0"
+	},
+	"AGS 30x29 mm automatic grenade launcher": {
+		"mod_magazine": "0",
+		"mod_scope": "1"
+	},
+	"RPK-16 5.45x39 light machine gun": {
+		"mod_pistol_grip": "0",
+		"mod_reciever": "1",
+		"mod_magazine": "2",
+		"mod_charge": "3",
+		"mod_stock_001": "4",
+		"mod_handguard": "5",
+		"mod_barrel": "6"
+	},
+	"Maska 1Sch helmet": {
+		"mod_equipment": "0"
+	},
+	"Armasight NVG mask": {
+		"mod_nvg": "0"
+	},
+	"6B47 Helmet with cover (flora digital)": {
+		"mod_nvg": "0",
+		"mod_equipment": "1"
+	},
+	"Kolpak-1S riot helmet": {
+		"mod_equipment": "0"
+	},
+	"LZSh light helmet": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_001": "3"
+	},
+	"Kiver-M Helmet": {
+		"mod_equipment": "0"
+	},
+	"Crye Precision Airframe Tan": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_001": "3"
+	},
+	"Vulkan-5 (LShZ-5) heavy helmet": {
+		"mod_equipment": "0"
+	},
+	"6B47 Ratnik-BSh Helmet": {
+		"mod_nvg": "0",
+		"mod_equipment": "1"
+	},
+	"Altyn helmet": {
+		"mod_equipment": "0"
+	},
+	"MSA Gallet TC 800 High Cut combat helmet": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2"
+	},
+	"Ops-Core Fast MT SUPER HIGH CUT Helmet": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_001": "3",
+		"mod_equipment_002": "4"
+	},
+	"Wilcox Skull Lock head mount": {
+		"mod_nvg": "0"
+	},
+	"Galvion Caiman Ballistic Helmet": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_002": "3"
+	},
+	"Rys-T helmet": {
+		"mod_equipment": "0"
+	},
+	"ZSh-1-2M helmet": {
+		"mod_equipment": "0"
+	},
+	"MSA ACH TC-2001 MICH Series Helmet": {
+		"mod_nvg": "0",
+		"mod_mount": "1",
+		"mod_equipment_002": "2"
+	},
+	"ZSh-1-2M helmet (black)": {
+		"mod_equipment": "0"
+	},
+	"BNTI LSHZ-2DTM Helmet ": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_001": "3",
+		"mod_equipment_002": "4"
+	},
+	"Ops-Core Fast MT SUPER HIGH CUT Helmet Tan": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_001": "3",
+		"mod_equipment_002": "4"
+	},
+	"MSA ACH TC-2002 MICH Series Helmet": {
+		"mod_nvg": "0",
+		"mod_mount": "1",
+		"mod_equipment_002": "2"
+	},
+	"Tac-Kek Fast MT Helmet (non-ballistic replica)": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_mount": "2",
+		"mod_equipment_001": "3",
+		"mod_equipment_002": "4"
+	},
+	"Diamond Age Bastion Helmet": {
+		"mod_nvg": "0"
+	},
+	"Maska 1Sch helmet (Killa)": {
+		"mod_equipment": "0"
+	},
+	"Team Wendy EXFIL Ballistic Helmet Black": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1",
+		"mod_equipment_001": "2"
+	},
+	"Team Wendy EXFIL Ballistic Helmet Coyote": {
+		"mod_equipment_000": "0",
+		"mod_nvg": "1"
+	},
+	"Tac-Kek Heavy Trooper mask": {
+		"mod_nvg": "0"
+	},
+	"Ops-Core Fast  Side Armor": {
+		"mod_equipment": "0"
+	},
+	"Additional armor for the Bastion helmet": {
+		"mod_nvg": "0"
+	},
+	"Default Inventory": {
+		"FirstPrimaryWeapon": "0",
+		"SecondPrimaryWeapon": "1",
+		"Holster": "2",
+		"Scabbard": "3",
+		"FaceCover": "4",
+		"Headwear": "5",
+		"TacticalVest": "6",
+		"SecuredContainer": "7",
+		"Backpack": "8",
+		"ArmorVest": "9",
+		"Pockets": "10",
+		"Earpiece": "11",
+		"Dogtag": "12",
+		"Eyewear": "13",
+		"ArmBand": "14",
+		"Compass": "15"
+	}
+}
