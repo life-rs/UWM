@@ -42,7 +42,7 @@ akmsn
     charge          slot 8
     front sight     slot 9
     mount_001       slot 10
-vepr 136/aks74/ak74/akm/vepr209 
+vepr 136/akm/vepr209/akms 
     gas block       slot 0
     launcher        slot 1
     muzzle          slot 2
@@ -53,6 +53,16 @@ vepr 136/aks74/ak74/akm/vepr209
     magazine        slot 7
     charge          slot 8
     front sight     slot 9
+aks74/ak74
+    gas block       slot 0
+    launcher        slot 1
+    muzzle          slot 2
+    pistol grip     slot 3
+    receiver        slot 4
+    rear sight      slot 5
+    stock           slot 6
+    magazine        slot 7
+    charge          slot 8
 SA58 
     pistol grip     slot 0
     magazine        slot 1
@@ -138,12 +148,6 @@ Mp153/MP133                 mp133 has mount001 instead of mount
     stock           slot 3
     mount           slot 4
     mount000        slot 5
-590
-    barrel          slot 0
-    handguard       slot 1
-    magazine        slot 2
-    stock           slot 3
-    mount           slot 4
 Saiga12k
     mount000        slot 0
     handguard       slot 1
