@@ -1,4 +1,4 @@
-AKS74U/aks74ub/aks74un
+"AKS74U/aks74ub/aks74un":{
     pistol grip     slot 0
     stock           slot 1
     charge          slot 2
@@ -6,6 +6,7 @@ AKS74U/aks74ub/aks74un
     muzzle          slot 4
     receiver        slot 5
     gas block       slot 6
+}
 AK 102/ak74n/105/101/104/103/74m/aks74n
     gas block       slot 0
     launcher        slot 1
@@ -328,7 +329,7 @@ izmash-pp91
     rear sight      slot 6
     scope           slot 7
     gas block       slot 8
-vector-9
+vector-9/vector 45
     magazine        slot 0
     front sight     slot 1
     rear sight      slot 2
@@ -346,5 +347,53 @@ mp9
     receiver        slot 3
     charge          slot 4
     mount000        slot 5
-
+UMP
+    magazine        slot 0
+	scope           slot 1
+	stock           slot 2
+    barrel          slot 3
+	mount_000       slot 4
+	mount_001       slot 5
+	mount_002       slot 6
+MP7A2
+    magazine        slot 0
+    muzzle          slot 1
+    front sight     slot 2
+    rear sight      slot 3
+    scope           slot 4
+    tactical_000    slot 5
+    tactical_001    slot 6
+    tactical_002    slot 7
+    stock           slot 8
+    foregrip        slot 9
+MP7A1
+    magazine        slot 0
+    muzzle          slot 1
+    front sight     slot 2
+    rear sight      slot 3
+    scope           slot 4
+    tactical_000    slot 5
+    tactical_001    slot 6
+    tactical_002    slot 7
+    stock           slot 8
+p90
+    magazine        slot 0
+    stock           slot 1
+    receiver        slot 2
+    barrel          slot 3
+    charge          slot 4
+mpx
+    pistol grip     slot 0
+    magazine        slot 1
+    receiver        slot 2
+    stock           slot 3
+    charge          slot 4
+rpk
+    pistol grip     slot 0
+    receiver        slot 1
+    magazine        slot 2
+    charge          slot 3
+    stock           slot 4
+    handguard       slot 5
+    barrel          slot 6
 
