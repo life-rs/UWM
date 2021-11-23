@@ -46,7 +46,6 @@ exports.mod = () => {
             fileData._props.Slots[0]._props.filters[0].Filter = ["55818a684bdc2ddd698b456d"];
         }
         //SA58 customization 
-        //starting with pistol grips
         if (source.SA58.gun.includes(fileData._id)) {
             fileData._props.Slots[0]._props.filters[0].Filter = ["55818a684bdc2ddd698b456d"];
             fileData._props.Slots[2]._props.filters[0].Filter = ["55818a104bdc2db9688b4569"];
@@ -73,8 +72,8 @@ exports.mod = () => {
             fileData._props.Slots[0]._props.filters[0].Filter = ["55818a684bdc2ddd698b456d"];
             fileData._props.Slots[2]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
         }
-        //SR25 customization
-        if ()
+        //SR25 customization  this is where i have gotten to
+        //if ()
     }
     fileIO.write("user/cache/items.json", base);
     logger.logSuccess("Gun-builders Paradise Achieved!");
