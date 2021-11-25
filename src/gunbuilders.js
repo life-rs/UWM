@@ -59,13 +59,13 @@ exports.mod = () => {
             fileData._props.Slots[1]._props.filters[0].Filter = ["55818a304bdc2db5418b457d"];
             fileData._props.Slots[3]._props.filters[0].Filter = ["55818a684bdc2ddd698b456d"];
             fileData._props.Slots[4]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
-            fileData._props.Slots[7]._props.filters[0].Filter.push(source.handguards);
+            fileData._props.Slots[7]._props.filters[0].Filter = source.handguards;
         }
         //VSS customization
         if (fileData._id === "57838ad32459774a17445cd2") {
             fileData._props.Slots[3]._props.filters[0].Filter = ["55818a304bdc2db5418b457d"];
             fileData._props.Slots[4]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
-            fileData._props.Slots[0]._props.filters[0].Filter.push(source.handguards);
+            fileData._props.Slots[0]._props.filters[0].Filter = source.handguards;
         }
         //SVD customization
         if (fileData._id === "5c46fbd72e2216398b5a8c9c") {
