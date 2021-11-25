@@ -119,7 +119,7 @@ M1A
     magazine        slot 0
     stock           slot 1
     barrel          slot 2
-    sight rear      slot 3
+    sight rear      slot 3  55818ac54bdc2d5b648b456e
     mount           slot 4          
 Rsass       
     pistol grip     slot 0

@@ -67,13 +67,26 @@ exports.mod = () => {
             fileData._props.Slots[4]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
             fileData._props.Slots[0]._props.filters[0].Filter = source.handguards;
         }
-        //SVD customization
-        if (fileData._id === "5c46fbd72e2216398b5a8c9c") {
+        //SVD customization and SR25 customization and MK-18 customization
+        if (fileData._id === "5c46fbd72e2216398b5a8c9c" || fileData._id === "5df8ce05b11454561e39243b" || fileData._id === "5fc22d7c187fea44d52eda44") {
             fileData._props.Slots[0]._props.filters[0].Filter = ["55818a684bdc2ddd698b456d"];
             fileData._props.Slots[2]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
         }
-        //SR25 customization  this is where i have gotten to
-        //if ()
+        //M1A customization
+        if (fileData._id === "5aafa857e5b5b00018480968") {
+            fileData._props.Slots[1]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
+            fileData._props.Slots[2]._props.filters[0].Filter = ["555ef6e44bdc2de9068b457e"];
+            fileData._props.Slots[3]._props.filters[0].Filter = ["55818ac54bdc2d5b648b456e"];
+        }
+        //RSASS customization
+        if (fileData._id === "5a367e5dc4a282000e49738f") {
+            fileData._props.Slots[0]._props.filters[0].Filter = ["55818a684bdc2ddd698b456d"];
+            fileData._props.Slots[2]._props.filters[0].Filter = ["55818a594bdc2db9688b456a"];
+            fileData._props.Slots[3]._props.filters[0].Filter = ["55818a104bdc2db9688b4569"];
+            fileData._props.Slots[4]._props.filters[0].Filter = ["555ef6e44bdc2de9068b457e"];
+            fileData._props.Slots[6]._props.filters[0].Filter = ["55818ac54bdc2d5b648b456e"];
+        }
+        
     }
     fileIO.write("user/cache/items.json", base);
     logger.logSuccess("Gun-builders Paradise Achieved!");
